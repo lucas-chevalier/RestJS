@@ -1,0 +1,16 @@
+{
+  "name": "book-borrowing-system",
+  "version": "1.0.0",
+  "description": "API de gestion d'emprunt de livres",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
