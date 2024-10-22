@@ -14,8 +14,6 @@ Disponibilité des livres : Vérification si un livre est emprunté ou non.
 
 Notation des livres : Seuls les utilisateurs ayant emprunté un livre peuvent le noter.
 
-Transformation DTO : Une route spéciale fournit une transformation des données du livre pour une présentation plus simple.
-
 Prérequis
 
 Avant de commencer, assurez-vous d'avoir installé les éléments suivants sur votre machine :
